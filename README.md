@@ -1,2 +1,2 @@
 # digital-clock-
-digital clock in c .
+Digital clock in c . It updates every second and gives the correct time 
